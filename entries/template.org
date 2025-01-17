@@ -1,10 +1,31 @@
-#+TITLE: T.I.L. How a Toaster Works
+#+OPTIONS: toc:2 num:nil html-style:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css" />
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: html5
+#+HTML_CONTAINER_CLASS: content
+
+# Insert header before any other content
+#+HTML_HEAD: <header class="site-header">
+#+HTML_HEAD:   <div class="header-content">
+#+HTML_HEAD:     <div class="logo-section">
+#+HTML_HEAD:       <img src="../logo.png" alt="Your Logo" class="logo" />
+#+HTML_HEAD:     </div>
+#+HTML_HEAD:     <nav class="main-nav">
+#+HTML_HEAD:       <ul>
+#+HTML_HEAD:         <li><a href="index.html">Home</a></li>
+#+HTML_HEAD:         <li><a href="blog.html">Blog</a></li>
+#+HTML_HEAD:         <li><a href="projects.html">Projects</a></li>
+#+HTML_HEAD:         <li><a href="about.html">About</a></li>
+#+HTML_HEAD:         <li><a href="contact.html">Contact</a></li>
+#+HTML_HEAD:       </ul>
+#+HTML_HEAD:     </nav>
+#+HTML_HEAD:   </div>
+#+HTML_HEAD: </header>
+
+#+TITLE: Today I Learned How a Toaster Works
 #+AUTHOR: prabhav
 #+EMAIL: prabhav.shetty25@gmail.com
 #+DATE: 17 January 2025
-#+OPTIONS: toc:2 num:nil html-style:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css" />
-#+HTML_DOCTYPE: html5
 
 * Section
 Text goes here. /italics/, *bold* and _underlined_.

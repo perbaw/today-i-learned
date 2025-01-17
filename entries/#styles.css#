@@ -13,7 +13,7 @@
     padding: 0rem 0;
     margin-bottom: 0rem;
     width: 800px;
-    position: static;
+    positiojn: static;
     top: 0;
 }
 
